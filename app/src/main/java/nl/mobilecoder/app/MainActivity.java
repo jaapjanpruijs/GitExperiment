@@ -27,6 +27,7 @@ public class MainActivity extends Activity {
 
 	    Log.v("TAG", "printing log message");
 	    Log.v("TAG", "more logging");
+	    Log.v("TAG", "one more log statement");
     }
 
 
